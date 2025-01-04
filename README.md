@@ -1,4 +1,4 @@
-# Hi there, I'm Duli96! 👋
+# Hi there, I'm Dulini! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for coding and solving complex problems. Here you'll find a collection of my projects, contributions, and interests.
 
